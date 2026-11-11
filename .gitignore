@@ -54,6 +54,7 @@ htmlcov/
 *.pem
 *.key
 *.token
+*.secret
 credentials.json
 
 # Ephemeral PR and test workspaces
